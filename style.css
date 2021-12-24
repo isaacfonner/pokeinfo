@@ -2,17 +2,14 @@
 	 body {
   background-color: lightblue;
 }
-.myButton {
+.BUTTON_IKL {
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;
-   height: 16px;
-   line-height: 16px;
    color: #FFFFFF;
    font-family: Brush Script MT;
-   width: 127px;
-   font-size: 21px;
-   font-weight: 100;
+   font-size: 27px;
+   font-weight: 300;
    padding: 40px;
    background-color: #F63D3D;
    -webkit-box-shadow: 1px 1px 20px 0 #000000;
@@ -26,7 +23,7 @@
    text-align: center;
 }
 
-.myButton:hover {
+.BUTTON_IKL:hover {
    border: solid #337FED 1px;
    background: #1E62D0;
    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
